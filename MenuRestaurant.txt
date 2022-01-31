@@ -1,0 +1,6 @@
+Nasi Lemak	2.5	5	32	4
+Nasi Ayam	5	5	65	5
+Coke	3	3	143	6
+Milo Ais	1.5	5	1000	3
+Roti	3	6	43	0
+Nasi Paprik	5.6	7	78	0
